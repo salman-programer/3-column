@@ -1,0 +1,95 @@
+*{
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;   
+}
+.root{
+    display: flex;
+}
+.orange{
+    background-color: hsl(31, 77%, 52%);
+    width: 220px;
+    height: 375px;
+}
+.blue{
+    background-color:  hsl(184, 100%, 22%);
+    width: 240px;
+    height: 310px;
+}
+.green{
+    background-color: hsl(179, 100%, 13%);
+    width: 250px;
+    height: 375px;
+}
+button{
+    width: 114px;
+    height: 35px;
+    border-radius: 24px;
+    background-color: white;
+    border: 1px solid white;
+}
+.orag{
+    color: orange;
+}
+.bl{
+    color:hsl(184, 100%, 22%);
+}
+.gr{
+    color: hsl(179, 100%, 13%);
+}
+h2{
+    color: white;
+    margin-top: 25px;
+}
+img{
+    margin-left: 20px;
+}
+.o-first{
+    margin-top: 30px;
+}
+.o-two,.o-three,.o-four,.o-five{
+    margin-top: -11px;
+}
+p{
+    color: rgba(255, 255, 255, 0.39);
+}
+.ba{
+    margin-top: -250px;
+}
+.bb{
+    margin-top: 7px;
+}
+.bc{
+    margin-top: -9px;
+}
+p{
+    margin-left: 10px;
+}
+.bl,.gr{
+    margin-top: 25px;
+        margin-left: 45px;
+}
+.orag{
+    margin-left: 25px;
+}
+.bd{
+    margin-top: -10px;
+}
+.be{
+    margin-top: -8px;
+}
+.ga{
+ margin-top: 29px;   
+}
+.gb{
+    margin-top: -12px;
+}
+.gc{
+    margin-top: -10px;
+}
+.gd{
+    margin-top: -10px;
+}
+.ge{
+    margin-top: -5px;
+}
